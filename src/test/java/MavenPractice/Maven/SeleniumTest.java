@@ -18,9 +18,9 @@ public class SeleniumTest {
 			System.out.println("elementsUi");	
 		}
 		@Test
-		public void gitstuffAUtomation()
+		public void gitstuffautmationcopy()
 		{
-			System.out.println("gitstuffAUtomation");	
+			System.out.println("gitsstuffautmationcopy");	
 		}
 		
 		
