@@ -22,11 +22,6 @@ public class SeleniumTest {
 		{
 			System.out.println("helloworld");	
 		}
-		@Test
-		public void helloworld1()
-		{
-			System.out.println("helloworld1");	
-		}
 		
 		
 }
